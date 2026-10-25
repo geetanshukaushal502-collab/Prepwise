@@ -1,6 +1,6 @@
-Prepwise - A smart meal prepping solution for college students
+#Prepwise - A smart meal prepping solution for college students
 
-What is The Problem?
+##What is The Problem?
 
 Young adults, particularly college students with busy schedules and limited time or cooking experience, may struggle to plan meals and prepare multiple dishes effectively. Choosing suitable recipes, coordinating meal prep time, and managing ingredients can become time consuming and difficult to organize.
 
@@ -9,12 +9,12 @@ Prepwise aims to reduce this problem by automating the cooking process and creat
 “The most common barrier to food preparation was lack of time, reported by 36% of young adults.” 
 44.9% of participants agreed or strongly agreed that time was a barrier to cooking, while 41.8% reported a lack of previous meal-planning education. 
 
-For Who?
+##For Who?
 
 Young Adults: 
 College students who want to prepare multiple meals but have limited time or experience planning or coordinating recipes.
 
-Stakeholder Needs
+##Stakeholder Needs
 
 Busy students
 Save time
@@ -30,14 +30,14 @@ Builds confidence in kitchen
 
 
 
-Brainstormed Solutions
+##Brainstormed Solutions
 
 Prepwise automates the cooking and meal prepping process for students completely. It handles recipes for students to cook and have all meals prepped at once and efficiently.
 Highest efficiency
 Students connect with experienced home cooks that teach them cooking skills.
 Students access tutorials and guides to learn specific cooking techniques.
 
-Cooking Efficiency
+##Cooking Efficiency
 Prepwise aims to minimize the total time and effort required to prepare multiple meals in one cooking session.
 An efficient cooking plan should:
 Minimize total elapsed time: Organize cooking tasks to reduce the time from starting meal preparation to finishing all meals.
@@ -47,7 +47,7 @@ Respect user constraints: Account for the user's available cooking time, equipme
 Provide realistic schedules: Use estimated preparation and cooking durations, accounting for tasks that must be completed before others can begin.
 
 
-Key Features
+##Key Features
 
 MVP
 Student accounts: The system allows students to sign up and login to their account.
@@ -62,7 +62,7 @@ Grocery List: Generate a grocery list from the selected recipes.
 Calendar: Students should be able to plan for multiple weeks in advance and have it displayed on the calendar.
 Ingredient Overlap: the app prioritizes recipes that have the same ingredients, helping students reduce grocery costs.
 
-Success
+##Success
 
 Prepwise will succeed when students start making it a habit to check Prepwise for efficient cooking times.
 The number of students who successfully generated a meal prepping plan.
